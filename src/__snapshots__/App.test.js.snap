@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Page Login snapshot text 1`] = `
+<h2
+  class="display-5"
+>
+  Login
+</h2>
+`;
+
+exports[`Login Page Password snapshot text 1`] = `
+<label
+  class="form-label"
+  for="password"
+>
+  Password
+</label>
+`;
+
+exports[`Login Page Username snapshot text 1`] = `
+<label
+  class="form-label"
+  for="username"
+>
+  Username
+</label>
+`;

@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "currency": "USD",
+
+  "displayName": "Alphabet",
+
+  "marketCap": 1598968692736,
+
+  "marketState": "POST",
+
+  "messageBoardId": "finmb_21835",
+
+  "postMarketChange": -61.5672,
+
+  "quoteType": "EQUITY",
+
+  "region": "US",
+
+  "regularMarketChange": 8.62999,
+
+  "regularMarketChangePercent": 4.2583585,
+
+  "regularMarketDayHigh": 214.8399,
+
+  "regularMarketDayLow": 206.7,
+
+  "regularMarketPrice": 2246.33,
+
+  "userCostPrice": 2200,
+
+  "units": 12,
+
+  "userBuyDate": "25-04-2022"
+},
+
+{
+  "id": 2,
+  
+  "currency": "USD",
+
+  "displayName": "Apple",
+
+  "marketCap": 1598968692736,
+
+  "marketState": "POST",
+
+  "messageBoardId": "finmb_21835",
+
+  "postMarketChange": -61.5672,
+
+  "quoteType": "EQUITY",
+
+  "region": "US",
+
+  "regularMarketChange": 8.62999,
+
+  "regularMarketChangePercent": 4.2583585,
+
+  "regularMarketDayHigh": 124.8399,
+
+  "regularMarketDayLow": 105.7,
+
+  "regularMarketPrice": 117.32,
+
+  "userCostPrice": 115,
+
+  "units": 15,
+
+  "userBuyDate": "25-06-2022"
+}
+]
